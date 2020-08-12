@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364230968622",
+    "firebase_url": "https://letsfitness-59e62.firebaseio.com",
+    "project_id": "letsfitness-59e62",
+    "storage_bucket": "letsfitness-59e62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364230968622:android:a0d1d8b97be5d9d7b366bf",
+        "android_client_info": {
+          "package_name": "com.joel.stad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364230968622-hmgu4qi3hibma5pvsak0attit1k30vvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBuwHZYQDEZRnPMAzfmgKGG0_7LH3lb3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364230968622-hmgu4qi3hibma5pvsak0attit1k30vvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
